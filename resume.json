@@ -1,0 +1,139 @@
+{
+    "basics": {
+        "name": "Sojal Agrawal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/109152210?s=400&u=0aafb34c081e396aceee32c45cad40e9ea8a2c45&v=4",
+        "email": "2021kucp1099@iiitkota.ac.in",
+        "phone": "+919917912077",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Aligarh",
+            "postalCode": "202001",
+            "city": "Aligarh",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "sojal_agrawal",
+                "url": "https://www.instagram.com/sojal_agrawal/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Web Developer",
+            "website": "https://iiitiansnetwork.com",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the first release of IIITians Network Website"
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        },
+        {
+            "company": "e-Learning And Data Analytics Lab",
+            "position": "Web Developer",
+            "website": "https://eldalab.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the Website of e-Learning And Data Analytics Lab, IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "B.Tech",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "9",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "Google",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using MERN.",
+            "link": ""
+        },
+        {
+            "title": "e-Learning And Data Analytics Lab",
+            "details": "Build e-Learning And Data Analytics Lab Website Using MERN.",
+            "link": ""
+        },
+        {
+            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "C/C++",
+                "Java",
+                "Python",
+                
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Playing",
+            "keywords": [
+                "Badminton"
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
